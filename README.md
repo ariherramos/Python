@@ -1,1 +1,1 @@
-# Python_studies
+Repositorio destinado ao estudo da linguagem python
